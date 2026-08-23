@@ -3,8 +3,9 @@
 Senior / Lead Android Engineer with ~20 years of experience building production apps, SDKs and developer-facing frameworks. Deep Kotlin/Java expertise with modern architecture (Jetpack Compose, Clean Architecture, MVVM). After 13 years in Finland, back in Spain running **[Bitdesal](https://bitdesal.com)** — independent Android & AI-assisted engineering consulting.
 
 - 🇫🇮 Led the Kivra Finland app end-to-end (99.9%+ crash-free rate, 100K+ downloads, 4.3★)
-- 🌍 Delivered Track & Trace systems across 4 countries at Sicpa Security Solutions
+- 🎯 Delivered Track & Trace systems across several countries and major companies at Sicpa Security Solutions
 - 👥 Scaled engineering teams from 5 to 100+, mentored 30+ developers
+- 🌍 Lived and worked across Spain 🇪🇸, Finland 🇫🇮, Switzerland 🇨🇭 and Iceland 🇮🇸
 - ✍️ Writing about Android, CI/CD and AI-assisted engineering at [bitdesal.com/blog](https://bitdesal.com/blog)
 
 ---
@@ -14,8 +15,7 @@ Senior / Lead Android Engineer with ~20 years of experience building production 
 ### 📱 Weel ADHD Planner
 Android app I'm developing as part of the [ExecutiveFunctioning](https://github.com/ExecutiveFunctioning) team.
 I own the Android architecture and feature development.
-**Status:** launching soon on Google Play.
-🔗 [Google Play link](https://play.google.com/store/apps/details?id=com.executivefunctioning.weel.app)
+**Status:** launching soon on Google Play. [🔗](https://play.google.com/store/apps/details?id=com.executivefunctioning.weel.app)
 
 ### 🩰 [Tabala](https://github.com/caye-bitdesal/tabala)
 Android app for *Muixerangues* (traditional human-tower groups), built with Kotlin.
