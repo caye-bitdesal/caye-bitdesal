@@ -22,11 +22,17 @@ Android app for *Muixerangues* (traditional human-tower groups), built with Kotl
 Backend implemented using Firebase Rest API
 **Status:** in active development.
 
-### 🌐 Client projects
+---
+
+## ✅ What's already delivered
+
+**🌐 Web Client Projects**
 - [Muixeranga del X](https://muixerangadelx.com) — website for a Muixeranga group (in active development)
-- [AmarteVitalFlow](https://amartevitalflow.com) — website for a company providing services of animal flow workshops
-- [Kivra Finland](https://bitdesal.com/projects/kivra/) - app for managing own digital documents
-- [Yössä](https://bitdesal.com/projects/yossa/) - app for nightlife and events
+- [AmarteVitalFlow](https://amartevitalflow.com) — website for a company providing animal flow workshop services
+
+**:robot: Android Client Projects**
+- [Kivra Finland](https://bitdesal.com/projects/kivra/) — app for managing own digital documents
+- [Yössä](https://bitdesal.com/projects/yossa/) — app for nightlife and events
 
 ## 🧰 Tools & Resources
 ### [Cursor Agent Skills](https://github.com/caye-bitdesal/bitdesal-skills)
