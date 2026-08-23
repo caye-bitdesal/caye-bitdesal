@@ -28,6 +28,10 @@ Backend implemented using Firebase Rest API
 - [Kivra Finland](https://bitdesal.com/projects/kivra/) - app for managing own digital documents
 - [Yössä](https://bitdesal.com/projects/yossa/) - app for nightlife and events
 
+## 🧰 Tools & Resources
+
+### [Cursor Agent Skills](https://github.com/caye-bitdesal/bitdesal-skills)
+Public collection of reusable [Cursor Agent Skills](https://cursor.com/docs/context/skills) — instructions that guide the agent through concrete workflows (e.g. generating project case-study pages). Free to copy, use and contribute to (GPL-3.0).
 ---
 
 ## 🛠 Tech
