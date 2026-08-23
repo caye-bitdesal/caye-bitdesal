@@ -15,7 +15,7 @@ Senior / Lead Android Engineer with ~20 years of experience building production 
 Android app I'm developing as part of the [ExecutiveFunctioning](https://github.com/ExecutiveFunctioning) team.
 I own the Android architecture and feature development.
 **Status:** launching soon on Google Play.
-🔗 [Google Play link — added once live](https://play.google.com/store/apps/details?id=com.executivefunctioning.weel.app)
+🔗 [Google Play link](https://play.google.com/store/apps/details?id=com.executivefunctioning.weel.app)
 
 ### 🩰 [Tabala](https://github.com/caye-bitdesal/tabala)
 Android app for *Muixerangues* (traditional human-tower groups), built with Kotlin.
