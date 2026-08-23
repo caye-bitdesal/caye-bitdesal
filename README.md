@@ -27,7 +27,7 @@ Backend implemented using Firebase Rest API
 ## ✅ What's already delivered
 
 **🌐 Web Client Projects**
-- [Muixeranga del X](https://muixerangadelx.com) — website for a Muixeranga group (in active development)
+- [Muixeranga de Elx](https://muixerangadelx.com) — website for a Muixeranga group (in active development)
 - [AmarteVitalFlow](https://amartevitalflow.com) — website for a company providing animal flow workshop services
 
 **:robot: Android Client Projects**
