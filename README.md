@@ -1,4 +1,12 @@
 # Hi, I'm Cayetano Ruiz Corraliza 👋
+📍 Elche/Elx, Spain | 🤖 Android | 🌐 Web | :cloud: APIs | :gear: AI builder
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 Senior / Lead Android Engineer with ~20 years of experience building production apps, SDKs and developer-facing frameworks. Deep Kotlin/Java expertise with modern architecture (Jetpack Compose, Clean Architecture, MVVM). After 13 years in Finland, back in Spain running **[Bitdesal](https://bitdesal.com)** — independent Android & AI-assisted engineering consulting.
 
@@ -34,22 +42,9 @@ Backend implemented using Firebase Rest API
 - [Kivra Finland](https://bitdesal.com/projects/kivra/) — app for managing own digital documents
 - [Yössä](https://bitdesal.com/projects/yossa/) — app for nightlife and events
 
-## 🧰 Tools & Resources
+## 🛠 Tools & Resources
 ### [Cursor Agent Skills](https://github.com/caye-bitdesal/bitdesal-skills)
 Public collection of reusable [Cursor Agent Skills](https://cursor.com/docs/context/skills) — instructions that guide the agent through concrete workflows (e.g. generating project case-study pages). Free to copy, use and contribute to (GPL-3.0).
-
----
-
-## 🛠 Tech
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-Clean Architecture · MVVM · Coroutines & Flow · Room · Dagger Hilt · CI/CD (GitHub Actions) · REST & SDK design
 
 ---
 
