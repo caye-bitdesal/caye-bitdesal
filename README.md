@@ -20,10 +20,10 @@ Senior / Lead Android Engineer with ~20 years of experience building production 
 
 ## 🚀 What I'm building
 
-### 📱 Weel ADHD Planner
+### 📱 [Weel ADHD Planner](https://play.google.com/store/apps/details?id=com.executivefunctioning.weel.app)
 Android app I'm developing as part of the [ExecutiveFunctioning](https://github.com/ExecutiveFunctioning) team.
 I own the Android architecture and feature development.
-**Status:** launching soon on Google Play. [🔗](https://play.google.com/store/apps/details?id=com.executivefunctioning.weel.app)
+**Status:** initial version out
 
 ### 🩰 [Tabala](https://github.com/caye-bitdesal/tabala)
 Android app for *Muixerangues* (traditional human-tower groups), built with Kotlin.
