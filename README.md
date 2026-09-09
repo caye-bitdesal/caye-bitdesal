@@ -30,6 +30,11 @@ Android app for *Muixerangues* (traditional human-tower groups), built with Kotl
 Backend implemented using Firebase Rest API
 **Status:** in active development.
 
+
+### :spiral_notepad: [TaskIt](https://github.com/caye-bitdesal/TaskIt)
+Minimalistic task manager built using KMP
+**Status:** in active development.
+
 ---
 
 ## ✅ What's already delivered
