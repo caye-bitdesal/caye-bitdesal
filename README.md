@@ -48,6 +48,7 @@ Minimalistic task manager built using KMP
 **🌐 Web Client Projects**
 - [Muixeranga de Elx](https://muixerangadelx.com) — website for a Muixeranga group (in active development)
 - [AmarteVitalFlow](https://amartevitalflow.com) — website for a company providing animal flow workshop services
+- [Regalos Kawaii](https://regaloskawaii.es) - recomendation website for kawaii products in Spain
 
 **:robot: Android Client Projects**
 - [Kivra Finland](https://bitdesal.com/projects/kivra/) — app for managing own digital documents
