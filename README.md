@@ -14,7 +14,7 @@
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-Senior / Lead Android Engineer with ~20 years of experience building production apps, SDKs and developer-facing frameworks. Deep Kotlin/Java expertise with modern architecture (Jetpack Compose, Clean Architecture, MVVM). After 13 years in Finland, back in Spain running **[Bitdesal](https://bitdesal.com)** — independent Android & AI-assisted engineering consulting.
+Senior / Lead Software Engineer with ~20 years of experience building production apps, SDKs and developer-facing frameworks. Deep Kotlin/Java expertise with modern architecture (Jetpack Compose, Clean Architecture, MVVM). After 13 years in Finland, back in Spain running **[Bitdesal](https://bitdesal.com)** — independent Software & AI-assisted engineering consulting.
 
 - 🇫🇮 Led the Kivra Finland app end-to-end (99.9%+ crash-free rate, 100K+ downloads, 4.3★)
 - 🎯 Delivered Track & Trace systems across several countries and major companies at Sicpa Security Solutions
@@ -55,8 +55,8 @@ Minimalistic task manager built using KMP
 - [Yössä](https://bitdesal.com/projects/yossa/) — app for nightlife and events
 
 ## 🛠 Tools & Resources
-### [Cursor Agent Skills](https://github.com/caye-bitdesal/bitdesal-skills)
-Public collection of reusable [Cursor Agent Skills](https://cursor.com/docs/context/skills) — instructions that guide the agent through concrete workflows (e.g. generating project case-study pages). Free to copy, use and contribute to (GPL-3.0).
+### [AI Agent Skills](https://github.com/caye-bitdesal/bitdesal-skills)
+Public collection of reusable AI Agent Skills— instructions that guide the agent through concrete workflows (e.g. generating project case-study pages). Free to copy, use and contribute to (GPL-3.0).
 
 ---
 
@@ -66,7 +66,7 @@ Public collection of reusable [Cursor Agent Skills](https://cursor.com/docs/cont
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayeruiz)
 [![Email](https://img.shields.io/badge/Email-caye%40bitdesal.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:caye@bitdesal.com)
 
-Available for Android consulting and long-term Senior/Lead roles.
+Available for software consulting and long-term Senior/Lead roles.
 
 <!--
 **caye-bitdesal/caye-bitdesal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
