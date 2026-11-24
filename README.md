@@ -54,9 +54,9 @@ Minimalistic task manager built using KMP
 - [Kivra Finland](https://bitdesal.com/projects/kivra/) — app for managing own digital documents
 - [Yössä](https://bitdesal.com/projects/yossa/) — app for nightlife and events
 
-## 🛠 Tools & Resources
-### [AI Agent Skills](https://github.com/caye-bitdesal/bitdesal-skills)
-Public collection of reusable AI Agent Skills— instructions that guide the agent through concrete workflows (e.g. generating project case-study pages). Free to copy, use and contribute to (GPL-3.0).
+**:computer: AI related Projects**
+- [AI Agent Skills](https://github.com/caye-bitdesal/bitdesal-skills) - Public collection of reusable AI Agent Skills for Claude and Cursor. Free to copy, use and contribute to (GPL-3.0).
+- [Gastos Casa](https://github.com/caye-bitdesal/gastos-casa) - example on how to orchestrate in a simple manner subagents in Claude 
 
 ---
 
